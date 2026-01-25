@@ -41,7 +41,7 @@ npm run dev
 
 ## 🌎 Live Demo
 
-[Live Site](wildoasismanagement.netlify.app)
+[Live Site](https://wildoasismanagement.netlify.app)
 
 ## 📁 Repository
 
