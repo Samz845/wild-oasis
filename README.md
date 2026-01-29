@@ -26,7 +26,7 @@ The Wild Oasis is a modern hotel management dashboard built to help hotel staff 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/the-wild-oasis.git
+git clone https://github.com/your-username/wild-oasis.git
 cd wild-oasis
 npm install
 npm run dev
